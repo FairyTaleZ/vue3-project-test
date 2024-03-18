@@ -9,7 +9,7 @@ defineProps({
 
 <template>
   <div class="greetings text-left ml-50px text-red-600 font-500">
-      HELLOWORLD
+      HELLOWORLD 改了点东西
   </div>
 </template>
 
